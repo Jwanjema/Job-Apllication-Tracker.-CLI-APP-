@@ -49,7 +49,6 @@ You'll see the main menu:
 5. Search applications
 6. View companies
 7. Exit
-==================================================
 Select an option by entering the corresponding number (1-7)
 
 Follow the prompts to complete your desired action
@@ -69,5 +68,5 @@ Withdrawn
 ## Author
 Joe Wanjema
 
-License
+## License
 This project is for educational purposes.
