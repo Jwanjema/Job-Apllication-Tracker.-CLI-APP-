@@ -24,14 +24,7 @@ Install the required dependencies:
 
 ### bash
 pip install sqlalchemy
-## Project Structure
-Job-Apllication-Tracker.-CLI-APP-/
-│
-├── main.py          # Main application entry point
-├── models.py        # SQLAlchemy ORM models
-├── database.py      # Database operations and session management
-├── utils.py         # Helper functions and utilities
-└── README.md        # This file
+
 ## How to Use
 Run the application:
 
