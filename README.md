@@ -1,3 +1,6 @@
+# Video Tutorial.
+https://drive.google.com/file/d/1CSnE-MNVZ_V4yySnr1Ks_hreRb7BsGas/view?usp=sharing
+
 A command-line interface (CLI) application for tracking job applications built with Python and SQLAlchemy.
 
 ## Features
